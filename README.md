@@ -1,6 +1,6 @@
-# I'm going to teach myself Ruby on Rails by building a simple Twitter-like application called Twidr
+#### I'm going to teach myself Ruby on Rails by building a simple Twitter-like application called Twidr
 
-# Ruby on Rails Tutorial sample application
+## Ruby on Rails Tutorial sample application
 
 This is the sample application for
 [*Ruby on Rails Tutorial:
